@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 🌱 I’m currently learning React!
+
+- 🔭 I’m currently working on an RPG project!
+
+- 📫 How to reach me: jaredcgober@gmail.com
+
+
 <!--
 **JCGober/jcgober** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
