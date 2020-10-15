@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning React!
+- 🌱 I’m currently learning more about React and advanced javascript!
 
-- 🔭 I’m currently working on an RPG project!
+- 🔭 I’m currently working on a text based RPG project!
 
 - 📫 How to reach me: jaredcgober@gmail.com
 
